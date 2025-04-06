@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Benjamin Weare</title>
+ <link href="http://hyde.getpoole.com/atom.xml" rel="self"/>
+ <link href="http://hyde.getpoole.com/"/>
+ <updated>2025-04-06T23:48:54+01:00</updated>
+ <id>http://hyde.getpoole.com</id>
+ <author>
+   <name>Benjamin Weare</name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>Test post</title>
+   <link href="http://hyde.getpoole.com/2025/04/06/test/"/>
+   <updated>2025-04-06T00:00:00+01:00</updated>
+   <id>http://hyde.getpoole.com/2025/04/06/test</id>
+   <content type="html">&lt;p&gt;Test content&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;More testing&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>
