@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Benjamin Weare</title>
- <link href="http://hyde.getpoole.com/atom.xml" rel="self"/>
- <link href="http://hyde.getpoole.com/"/>
- <updated>2025-04-06T23:48:54+01:00</updated>
- <id>http://hyde.getpoole.com</id>
+ <link href="/atom.xml" rel="self"/>
+ <link href="/"/>
+ <updated>2025-04-07T19:27:15+01:00</updated>
+ <id></id>
  <author>
    <name>Benjamin Weare</name>
    <email></email>
@@ -13,15 +13,21 @@
 
  
  <entry>
-   <title>Test post</title>
-   <link href="http://hyde.getpoole.com/2025/04/06/test/"/>
+   <title>Introduction to TEM</title>
+   <link href="/2025/04/06/Introduction-to-TEM/"/>
    <updated>2025-04-06T00:00:00+01:00</updated>
-   <id>http://hyde.getpoole.com/2025/04/06/test</id>
-   <content type="html">&lt;p&gt;Test content&lt;/p&gt;
+   <id>/2025/04/06/Introduction to TEM</id>
+   <content type="html">&lt;p&gt;Microscopy lets us form beautiful images of tiny objects, magnified so we can see them clearly. There are references to using a glass of water to magnify letters as early as the first century CE, and the refinement of glass lenses in the sixteenth century and beyond allowed the discovery of biological cells via light microscopy. However, the size of what you can usefully look at with light is limited by the resolving power (or resolution) of a microscope, which is proportional to the wavelength of light used. If you use light with 400 nm wavelength, the lower limit of the visible light spectrum, your maximum resolution is around 150 nm. So, if two objects are closer together than 150 nm, they’ll blur together into one image when we look at them through our microscope.&lt;/p&gt;
 
-&lt;hr /&gt;
+&lt;p&gt;The resolution limitation of light microscopes led to the invention of the transmission electron microscope in 1931 by Knoll and Ruska, and the related scanning transmission electron microscope was developed in the 1970s by the Crewe lab (who, according to one account, smoked cigars in the lab until it was realised this may be a source of airborne contamination). The maximum resolution of a modern TEM is less than a nanometre, due to the very short wavelength of fast electrons, and even greater resolution possible with high-resolution TEM. The development of the first transmission electron microscope earned half a Nobel Prize for Ruska in 1986; the field gained another Nobel Prize in 2017 for the development of cryo-TEM by to Dubochet, Frank, and Henderson.&lt;/p&gt;
 
-&lt;p&gt;More testing&lt;/p&gt;
+&lt;p&gt;Transmission electron microscopy may have a shorter history than light microscopy, but has cemented itself as a vital tool for looking at some of the smallest objects on Earth. TEM is important in materials science and in the life sciences, although it’s not often centre stage. An impressive recent example was using high-resolution TEM to image krypton atoms immobilised in fullerenes, where the individual krypton atoms can be seen in the TEM images (see below). TEM imaging was also important for the discovery and study of carbon nanotubes, nanometre-sized hollow cylinders of carbon which may have useful properties for advanced materials. Biological samples are often imaged at cryogenic temperatures. Images of SARS-CoV-2 were taken using electron microscopy, allowing studies of how the virus interacts with cells, and more broadly TEM allows very detailed histology and microbiology research to be performed.&lt;/p&gt;
+
+&lt;p&gt;The operation of a TEM is analogous to the operation of a light microscope, but the details are very different – TEMs use electromagnetic lenses to steer the electrons through the column, and the inside of a TEM where the specimen is placed is kept under high vacuum. As well as being able to look at objects as small as an atom, the interaction between the electrons and the specimen tells us about the elemental composition of the specimen via energy dispersive X-ray spectroscopy (EDS) and electron energy loss spectroscopy (EELS), and we can investigate crystalline specimens using electron diffraction. This can all be done from the sample volume, meaning at it’s best TEM can be a holistic technique. Transmission electron microscopy is a powerful scientific tool with an interesting history. It is very relevant for a wide range of scientific questions but the sheer depth of the field can make TEM a little daunting to learn about, especially if you don’t have microscopy experience to give you a running start.&lt;/p&gt;
+
+&lt;p&gt;It is worth having a working knowledge of TEM if you intend to use the technique, and if you’re just curious about what we get up to in this corner of science then how TEMs work is fascinating. My aim for future TEM blogs is to discuss the fine details of the technique in plain language as an introduction. We will delve into the hardware that goes into a TEM, how to design experiments and prepare samples, as well as discuss the different kinds of information you can get from TEM. It should give you an idea of when you’d want to use TEM, and for which samples it is suitable.&lt;/p&gt;
+
+&lt;p&gt;Originally published as part of &lt;a href=&quot;https://www.linkedin.com/pulse/beyond-microscope-welcome-world-tem-iqpce/?trackingId=6LFC5gNqlEn5VfkbsorISA%3D%3D&quot;&gt;Beyond the Microscope&lt;/a&gt; at the nmRC.&lt;/p&gt;
 </content>
  </entry>
  
